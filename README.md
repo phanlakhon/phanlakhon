@@ -1,28 +1,68 @@
-# Hi there, I'm Oorathai Phanlakhon! 👋
+# 👋 Hello, I’m Oorathai Phanlakhon
 
-Welcome to my GitHub profile. Here's a little bit about me:
+Developer & Freelance  
+Building thoughtful digital products with clarity and intention.
 
-## About Me
+---
 
-- 👩‍💻 I'm a Front-end Developer passionate about creating seamless user experiences.
-- 🌱 Constantly learning and exploring new technologies to enhance my skills.
-- 💡 I love solving problems and turning ideas into interactive applications.
-- 📫 How to reach me: [phanlakhon.ort@gmail.com](mailto:phanlakhon.ort@gmail.com)
+## 🚀 About Me
 
-## Top Languages
+I enjoy turning ideas into practical, maintainable web experiences with thoughtful architecture and clear structure.
+I value code quality and seamless user experience, and work to deliver solutions that are reliable and easy to evolve over time.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phanlakhon&layout=compact&theme=radical)
+---
 
-<!-- 
-## Projects
+## 🧠 Skills & Tools
 
-Here are some of my notable projects:
+### 💻 Languages & Frameworks
+- **JavaScript / TypeScript**
+- **React / Next.js**
+- **Nuxt.js**
+- **PHP / Laravel**
+- **SCSS / TailwindCSS**
+- **API Integration**
 
-- [Project 1](https://github.com/phanlakhon/project1): Brief description of project 1.
-- [Project 2](https://github.com/phanlakhon/project2): Brief description of project 2.
-- [Project 3](https://github.com/phanlakhon/project3): Brief description of project 3. 
--->
-## Connect with Me
-- LinkedIn: [Oorathai Phanlakhon](https://www.linkedin.com/in/oorathai-phanlakhon-8a8667227/)
+### 🧰 Tools & Platform
+- Git & GitHub
+- VSCode
+- Firebase
+- REST APIs
 
-Thanks for stopping by! Feel free to explore my work, and don't hesitate to connect. Wishing you an amazing day ahead! 🚀😊
+---
+
+## 📌 Featured Projects
+
+Here are some examples of projects I’ve helped bring to life — from early builds to production-ready platforms:
+
+### 🎫 Online Ticket Booking Platform
+- Built a full ticket reservation interface with **React + Next.js**, **TailwindCSS**, and **Firebase**  
+- Designed to support real-world booking workflows and reliable performance
+
+### 🛠 Website Platform (Admin + Main Site)
+- Developed both admin dashboard and main front-end with **Nuxt.js** connected to **Laravel API**  
+- Organized components and state logic for clean scalability
+
+### 🛒 B2B E-Commerce Platform
+- Front-end implementation for a B2B online storefront with **Nuxt.js** + **SCSS**  
+- Optimized for clarity and ease of navigation
+
+### 🎨 Theme Customization
+- Customized and extended themes using **PHP**, **CSS**, and **JavaScript**  
+- Ensured flexible layouts compatible with ongoing design changes
+
+*More projects available on my GitHub:*  
+👉 https://github.com/phanlakhon?tab=repositories
+
+---
+
+## 💬 Let’s Connect
+
+I’m always open to talking about development, collaborations, or potential opportunities!
+
+- 💼 LinkedIn: https://www.linkedin.com/in/oorathai-phanlakhon-8a8667227/  
+- 📫 Email: phanlakhon.ort@gmail.com
+
+---
+
+
+*Thanks for dropping by — feel free to explore my work and reach out anytime!*
